@@ -8,7 +8,7 @@
 
 ## Запуск
 
-1. Клонируйте репозиторий: `git clone https://github.com/ваш-юзернейм/ваш-репозиторий.git`
+1. Клонируйте репозиторий: `git clone https://github.com/Username-Andrey-is-available/SymbolFrequencyAnalyzer.git`
 2. Перейдите в каталог проекта: `cd ваш-репозиторий`
 3. Запустите проект: `./gradlew bootRun` (или `./gradlew.bat bootRun` для Windows)
 
